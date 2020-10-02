@@ -2,8 +2,6 @@ import time
 #import numpy as np
 import sys
 
-#testing
-
 #delay printing
 def delay_print(s):
     #prints one letter at a time
